@@ -1,0 +1,2402 @@
+[
+  {
+    "filename": "n03.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "n19.wav",
+    "emotion": "neutral",
+    "transcription": "WHO AUTHORIZED THE UNLIMITED EXPENSE ACCOUNT"
+  },
+  {
+    "filename": "f09.wav",
+    "emotion": "fearful",
+    "transcription": "THE TOOTH FAIRY FORGOT TO COME WHEN ROGER'S TOOTH FELL OUT"
+  },
+  {
+    "filename": "a02.wav",
+    "emotion": "angry",
+    "transcription": "DON'T ASK ME TO CARRY AN OIDY RAG LIKE THAT"
+  },
+  {
+    "filename": "h10.wav",
+    "emotion": "happy",
+    "transcription": "SERVE THE COLSLOUGH AFTER I AT THE OIL"
+  },
+  {
+    "filename": "h12.wav",
+    "emotion": "happy",
+    "transcription": "HIS ARTISTIC ACCOMPLISHMENTS GUARANTEED HIM ENTRY INTO ANY SOCIAL GATHERING"
+  },
+  {
+    "filename": "n05.wav",
+    "emotion": "neutral",
+    "transcription": "CALCIOM MAKES BONES AND TEETH STRONG"
+  },
+  {
+    "filename": "d03.wav",
+    "emotion": "disgust",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "n25.wav",
+    "emotion": "neutral",
+    "transcription": "THE CARPET CLEAN U SHAMPOOED OUR ORIENTAL RUG"
+  },
+  {
+    "filename": "n01.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "h09.wav",
+    "emotion": "happy",
+    "transcription": "ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S"
+  },
+  {
+    "filename": "su13.wav",
+    "emotion": "surprised",
+    "transcription": "LIGHTED WINDOWS GLOW JEWEL BRIGHT THROUGH THE DOWNPOR"
+  },
+  {
+    "filename": "n04.wav",
+    "emotion": "neutral",
+    "transcription": "THE BEST WAY TO LEARN IS TO SOLVE EXTRA PROBLEMS"
+  },
+  {
+    "filename": "n15.wav",
+    "emotion": "neutral",
+    "transcription": "HE RIPPED DOWN THE SELIPHANE CAREFULLY AND LAID THREE DOGS ON THE TINFOIL"
+  },
+  {
+    "filename": "f04.wav",
+    "emotion": "fearful",
+    "transcription": "CALL AN AMBULANCE FOR MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "h13.wav",
+    "emotion": "happy",
+    "transcription": "HE WOULD NOT CARRY A BRIEF CASE"
+  },
+  {
+    "filename": "f10.wav",
+    "emotion": "fearful",
+    "transcription": "WE'LL ROP IN WEAR A YELLOW"
+  },
+  {
+    "filename": "su04.wav",
+    "emotion": "surprised",
+    "transcription": "THE CARPETCLEAN A SHAMPOOD O'LL ORIENTAL RUG"
+  },
+  {
+    "filename": "h11.wav",
+    "emotion": "happy",
+    "transcription": "BY THAT ONE FEELS THAT MAGNETIC FORCES ARE AS GENERAL AS ELECTRICAL FORCES"
+  },
+  {
+    "filename": "n20.wav",
+    "emotion": "neutral",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY ORDERS"
+  },
+  {
+    "filename": "sa10.wav",
+    "emotion": "sad",
+    "transcription": "JEFF THOUGHT YOU ARGUED IN FAVOR OF A CENTRIFUGE PURCHASE"
+  },
+  {
+    "filename": "n24.wav",
+    "emotion": "neutral",
+    "transcription": "TORNADOES OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "n02.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "sa08.wav",
+    "emotion": "sad",
+    "transcription": "JOHN CLEAN SHELLFISH FOR A LIVING"
+  },
+  {
+    "filename": "h14.wav",
+    "emotion": "happy",
+    "transcription": "OBVIOUSLY THE BRIDLE PAIR HAS MANY ADJUSTMENTS TO MAKE TO THEIR NEW SITUATION"
+  },
+  {
+    "filename": "a03.wav",
+    "emotion": "angry",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a11.wav",
+    "emotion": "angry",
+    "transcription": "A FEW YEARS LATER THE DOME FELL IN"
+  },
+  {
+    "filename": "sa03.wav",
+    "emotion": "sad",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a10.wav",
+    "emotion": "angry",
+    "transcription": "KINDERGART AN CHILDREN DECORATE THEIR CLASSROOMS FOR ALL HOLIDAYS"
+  },
+  {
+    "filename": "h06.wav",
+    "emotion": "happy",
+    "transcription": "THAT NOISE PROBLEM GROWS MORE ANNOYING EACH DAY"
+  },
+  {
+    "filename": "n11.wav",
+    "emotion": "neutral",
+    "transcription": "AS SUCH IT WAS BEYOND POLITICS AND HAD NO NEED OF JUSTIFICATION BY A MESSAGE"
+  },
+  {
+    "filename": "su01.wav",
+    "emotion": "surprised",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "n18.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a09.wav",
+    "emotion": "angry",
+    "transcription": "RIGHT NOW MAY NOT BE THE BEST TIME FOR BUSINESS MURGERS"
+  },
+  {
+    "filename": "a05.wav",
+    "emotion": "angry",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY ORDITS"
+  },
+  {
+    "filename": "n14.wav",
+    "emotion": "neutral",
+    "transcription": "KEEP YOUR SEATS BOYS I JUST WANT TO PUT SOME FINISHING TOUCHES ON THIS THING"
+  },
+  {
+    "filename": "d01.wav",
+    "emotion": "disgust",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "a06.wav",
+    "emotion": "angry",
+    "transcription": "CORY AN TRISCH PLAYED TAG WITH BEECH BALLS FOR HOURS"
+  },
+  {
+    "filename": "n08.wav",
+    "emotion": "neutral",
+    "transcription": "GREGG BUYS FRESH MILK EACH WEEK DAY MORNING"
+  },
+  {
+    "filename": "h04.wav",
+    "emotion": "happy",
+    "transcription": "THOSE MUSICIANS HARMONIZE MARVELLOUSLY"
+  },
+  {
+    "filename": "n12.wav",
+    "emotion": "neutral",
+    "transcription": "HE ALWAYS SEEMED TO HAVE MONEY IN HIS POCKET"
+  },
+  {
+    "filename": "d14.wav",
+    "emotion": "disgust",
+    "transcription": "HOW MUCH AND HOW MANY PROFITS COULD A MAJORITY TAKE OUT OF THE LOSSES OF A FEW"
+  },
+  {
+    "filename": "f11.wav",
+    "emotion": "fearful",
+    "transcription": "THEIR PROPS WERE TWO STEP LADDERS A CHAIR AND A PALM FAN"
+  },
+  {
+    "filename": "su03.wav",
+    "emotion": "surprised",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f03.wav",
+    "emotion": "fearful",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f07.wav",
+    "emotion": "fearful",
+    "transcription": "THAT DIAGRAM MAKES SENSE ONLY AFTER MUCH STUDY"
+  },
+  {
+    "filename": "d05.wav",
+    "emotion": "disgust",
+    "transcription": "THE SMALL BOY PUT THE WORM ON THE HOOK"
+  },
+  {
+    "filename": "a12.wav",
+    "emotion": "angry",
+    "transcription": "BUT IN THIS ONE SECTION WE WELCOMED AUDITORS"
+  },
+  {
+    "filename": "d11.wav",
+    "emotion": "disgust",
+    "transcription": "IF THE FARM IS RENTED THE RENT MUST BE PAID"
+  },
+  {
+    "filename": "n09.wav",
+    "emotion": "neutral",
+    "transcription": "AGRICULTURAL PRODUCTS ARE UNEVENLY DISTRIBUTED"
+  },
+  {
+    "filename": "n17.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "f01.wav",
+    "emotion": "fearful",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "f08.wav",
+    "emotion": "fearful",
+    "transcription": "SPECIAL TASK FORCES RESCUE HOSTAGES FROM KITTNAPPERS"
+  },
+  {
+    "filename": "f02.wav",
+    "emotion": "fearful",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "su08.wav",
+    "emotion": "surprised",
+    "transcription": "THE CLUMSY CUSTOMER SPILT SOME EXPENSIVE PERFUME"
+  },
+  {
+    "filename": "d13.wav",
+    "emotion": "disgust",
+    "transcription": "PRETTY SOON A WOMAN CAME ALONG CARRYING A FOLDED UMBRELLA AS A WALKING STICK"
+  },
+  {
+    "filename": "sa09.wav",
+    "emotion": "sad",
+    "transcription": "HE STOLE A DIME FROM A BEGGAR"
+  },
+  {
+    "filename": "f12.wav",
+    "emotion": "fearful",
+    "transcription": "THIS IS A PROBLEM THAT GOES CONSIDERABLY BEYOND QUESTIONS OF SALARY AND TENURE"
+  },
+  {
+    "filename": "d12.wav",
+    "emotion": "disgust",
+    "transcription": "LABORATORY ASTROPHYSICS"
+  },
+  {
+    "filename": "su02.wav",
+    "emotion": "surprised",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "h05.wav",
+    "emotion": "happy",
+    "transcription": "THE EASTERN COAST IS A PLACE FOR PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "su07.wav",
+    "emotion": "surprised",
+    "transcription": "I'D RIDE THE SUBWAY BUT I HAVEN'T ENOUGH CHANGE"
+  },
+  {
+    "filename": "d02.wav",
+    "emotion": "disgust",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "h01.wav",
+    "emotion": "happy",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "sa01.wav",
+    "emotion": "sad",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "d04.wav",
+    "emotion": "disgust",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLECLOTH TO THE CLEANERS FOR ME"
+  },
+  {
+    "filename": "f05.wav",
+    "emotion": "fearful",
+    "transcription": "TORNADOES OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "h15.wav",
+    "emotion": "happy",
+    "transcription": "BOTH THE CONDITIONS AND THE COMPLICITY ARE DOCUMENTED IN CONSIDERABLE DETAILS"
+  },
+  {
+    "filename": "n29.wav",
+    "emotion": "neutral",
+    "transcription": "THOSE MUSICIANS HARMONIZED MARVELLOUSLY"
+  },
+  {
+    "filename": "sa13.wav",
+    "emotion": "sad",
+    "transcription": "BUT THE SHIPS ARE VERY SLOW NOW AND WE DON'T GET SO MANY SAILORS ANY MORE"
+  },
+  {
+    "filename": "sa02.wav",
+    "emotion": "sad",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE HAT"
+  },
+  {
+    "filename": "n28.wav",
+    "emotion": "neutral",
+    "transcription": "THE DIAGNOSIS WAS DISCOURAGING HOWEVER HE WAS NOT OVERLY WORRIED"
+  },
+  {
+    "filename": "n21.wav",
+    "emotion": "neutral",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLE CLOTH TO THE CLEANERS FOR ME"
+  },
+  {
+    "filename": "su09.wav",
+    "emotion": "surprised",
+    "transcription": "PLEASE DIG MY POTATOES UP BEFORE FROST"
+  },
+  {
+    "filename": "f06.wav",
+    "emotion": "fearful",
+    "transcription": "STRAW HATS ARE OUT OF FASHION THIS YEAR"
+  },
+  {
+    "filename": "su05.wav",
+    "emotion": "surprised",
+    "transcription": "HIS SHOULDER FELT AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "n23.wav",
+    "emotion": "neutral",
+    "transcription": "CALL AN AMBULANCE FOR MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "d10.wav",
+    "emotion": "disgust",
+    "transcription": "IF PEOPLE WERE MORE GENEROUS THERE WOULD BE NO NEED FOR WELFARE"
+  },
+  {
+    "filename": "su12.wav",
+    "emotion": "surprised",
+    "transcription": "PROPERLY USE THE PRESENT BOOK AS AN EXCELLENT INSTRUMENT OF ENLIGHTENMENT"
+  },
+  {
+    "filename": "n16.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "h07.wav",
+    "emotion": "happy",
+    "transcription": "PROJECT DEVELOPMENT WAS PROCEEDING TOO SLOWLY"
+  },
+  {
+    "filename": "d09.wav",
+    "emotion": "disgust",
+    "transcription": "DECEMBER AND JANUARY A NICE MONTHS TO SPEND IN MY AMMY"
+  },
+  {
+    "filename": "h03.wav",
+    "emotion": "happy",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "su11.wav",
+    "emotion": "surprised",
+    "transcription": "SALVATION RECONSIDERED"
+  },
+  {
+    "filename": "su06.wav",
+    "emotion": "surprised",
+    "transcription": "THE VIEWPOINT OVERLOOKED THE OCEAN"
+  },
+  {
+    "filename": "a08.wav",
+    "emotion": "angry",
+    "transcription": "WITHDRAW ALL FONY ACCUSATIONS AT ONCE"
+  },
+  {
+    "filename": "su14.wav",
+    "emotion": "surprised",
+    "transcription": "BUT THIS DOESN'T DETTRACT FROM ITS MERIT AS AN INTERESTING IF NOT GREAT FILM"
+  },
+  {
+    "filename": "a13.wav",
+    "emotion": "angry",
+    "transcription": "LOTS OF PEOPLE WILL ROAM THE STREETS IN COSTUMES AND MASKS AND HAVING A BALL"
+  },
+  {
+    "filename": "d08.wav",
+    "emotion": "disgust",
+    "transcription": "BAB BURN PAPER AND LEAVES IN A BIG BONFIRE"
+  },
+  {
+    "filename": "su10.wav",
+    "emotion": "surprised",
+    "transcription": "GRANDMOTHER OUT GREW HER UP BRINGING HIM PETTICOATS"
+  },
+  {
+    "filename": "d07.wav",
+    "emotion": "disgust",
+    "transcription": "HOW GOOD IS YOUR ENDURANCE"
+  },
+  {
+    "filename": "sa15.wav",
+    "emotion": "sad",
+    "transcription": "NO MANUFACTURER HAS TAKEN THE INITIATIVE IN POINTING OUT THE COSTS INVOLVED"
+  },
+  {
+    "filename": "h08.wav",
+    "emotion": "happy",
+    "transcription": "THE OASIS WAS A MIRAGE"
+  },
+  {
+    "filename": "a14.wav",
+    "emotion": "angry",
+    "transcription": "IN MANY OF HIS POEMS DEATH COMES BY TRAIN A STRONGLY EVOCATIVE VISUAL IMAGE"
+  },
+  {
+    "filename": "n10.wav",
+    "emotion": "neutral",
+    "transcription": "THE NEAREST SYNAGOGUE MAY NOT BE WITHIN WALKING DISTANCE"
+  },
+  {
+    "filename": "a04.wav",
+    "emotion": "angry",
+    "transcription": "WHO AUTHORIZED THE UNLIMITED EXPENSE ACCOUNTS"
+  },
+  {
+    "filename": "f13.wav",
+    "emotion": "fearful",
+    "transcription": "THE PULSING GLOW OF A CIGARETTE"
+  },
+  {
+    "filename": "sa11.wav",
+    "emotion": "sad",
+    "transcription": "HOWEVER THE LITTER REMAINED AUGMENTED BY SEVERAL DOZEN LUNCH ROOM SUPPERS"
+  },
+  {
+    "filename": "n27.wav",
+    "emotion": "neutral",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "a15.wav",
+    "emotion": "angry",
+    "transcription": "THEN HE WOULD REALIZE THEY WERE REALLY THINGS THAT ONLY HE HIMSELF COULD THINK"
+  },
+  {
+    "filename": "sa07.wav",
+    "emotion": "sad",
+    "transcription": "THEY ENJOY IT WHEN I OLDITION"
+  },
+  {
+    "filename": "f15.wav",
+    "emotion": "fearful",
+    "transcription": "WE WILL ACHIEVE A MORE VIVID SENSE OF WHAT IT IS BY REALIZING WHAT IT IS NOT"
+  },
+  {
+    "filename": "h02.wav",
+    "emotion": "happy",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "n13.wav",
+    "emotion": "neutral",
+    "transcription": "NO RETURN ADDRESS WHATSOEVER"
+  },
+  {
+    "filename": "a07.wav",
+    "emotion": "angry",
+    "transcription": "HE WILL ALLOW A RARE LIE"
+  },
+  {
+    "filename": "sa04.wav",
+    "emotion": "sad",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "sa12.wav",
+    "emotion": "sad",
+    "transcription": "AMERICAN NEWSPAPER REVIEWERS LIKED TO CALL HIS PLAYS NIALISTIC"
+  },
+  {
+    "filename": "sa06.wav",
+    "emotion": "sad",
+    "transcription": "BEFORE THURSDAY'S EXAMINE REVIEW EVERY FORMULA"
+  },
+  {
+    "filename": "n07.wav",
+    "emotion": "neutral",
+    "transcription": "ALLOW LEWAY HERE BUT RATIONALIZE ALL ERRORS"
+  },
+  {
+    "filename": "sa05.wav",
+    "emotion": "sad",
+    "transcription": "THE DIAGNOSIS WAS DISCOURAGING HOWEVER HE WAS NOT OVERLY WORRIED"
+  },
+  {
+    "filename": "f14.wav",
+    "emotion": "fearful",
+    "transcription": "ONE LOOKD DOWN ON A SEA OF LEAVES A BREAKING WAVE OF FLOWER"
+  },
+  {
+    "filename": "n06.wav",
+    "emotion": "neutral",
+    "transcription": "CATOSTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR"
+  },
+  {
+    "filename": "n30.wav",
+    "emotion": "neutral",
+    "transcription": "THE EASTERN COAST IS A PLACE FOR PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "n26.wav",
+    "emotion": "neutral",
+    "transcription": "HIS SHOULDER FELT AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "su15.wav",
+    "emotion": "surprised",
+    "transcription": "HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS"
+  },
+  {
+    "filename": "d15.wav",
+    "emotion": "disgust",
+    "transcription": "DOES SOCIETY REALLY EXIST AS AN ENTITY OVER AND ABOVE THE EGGLOMERATION OF MEN"
+  },
+  {
+    "filename": "d06.wav",
+    "emotion": "disgust",
+    "transcription": "BASKET BALL CAN BE AN ENTERTAINING SPORT"
+  },
+  {
+    "filename": "n22.wav",
+    "emotion": "neutral",
+    "transcription": "THE SMALL BOY PUT THE WORM ON THE HOOK"
+  },
+  {
+    "filename": "sa14.wav",
+    "emotion": "sad",
+    "transcription": "IT'S ONE OF THE RARE PUBLIC VENTURES HERE ON WHICH NEARLY EVERY ONE IS AGREED"
+  },
+  {
+    "filename": "a01.wav",
+    "emotion": "angry",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "n03.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YE TELL ME WHY"
+  },
+  {
+    "filename": "n19.wav",
+    "emotion": "neutral",
+    "transcription": "WHO AUTHORIZED THE UNLIMITED EXPENSE COUNT"
+  },
+  {
+    "filename": "f09.wav",
+    "emotion": "fearful",
+    "transcription": "THE TOOTH FAIRY FORGOT TO COME WHEN ROGER'S TOOTH FELL OUT"
+  },
+  {
+    "filename": "a02.wav",
+    "emotion": "angry",
+    "transcription": "DON'T ASK ME SO CARONORLY RAGG LIKE THAT"
+  },
+  {
+    "filename": "h10.wav",
+    "emotion": "happy",
+    "transcription": "SERVE THE COSTAL AFTER I HADE THE OIL"
+  },
+  {
+    "filename": "h12.wav",
+    "emotion": "happy",
+    "transcription": "HIS ARTISTIC ACCOMPLISHMENTS GUARANTEED DIMENTARY IS ANY SOCIAL GATHERING"
+  },
+  {
+    "filename": "n05.wav",
+    "emotion": "neutral",
+    "transcription": "CAUSIUM MAKES BONES AND TEETH STRONG"
+  },
+  {
+    "filename": "d03.wav",
+    "emotion": "disgust",
+    "transcription": "WILL YOU TELVE YE WHY"
+  },
+  {
+    "filename": "n25.wav",
+    "emotion": "neutral",
+    "transcription": "THE CARPET CLEAMERS CHAMPOOED OUR ORIENTAL RUG"
+  },
+  {
+    "filename": "n01.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT AND GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "h09.wav",
+    "emotion": "happy",
+    "transcription": "ARE YOUR GRACE HIGHER OR LOWER THAN THANCES"
+  },
+  {
+    "filename": "su13.wav",
+    "emotion": "surprised",
+    "transcription": "LIGHTED WINDOWS GLOWED DEWEL BRIGHT THROUGH THE DOWNPALL"
+  },
+  {
+    "filename": "n04.wav",
+    "emotion": "neutral",
+    "transcription": "THE BEST WAY TO LEARN IS TO SOLVE EXTRA PROBLEMS"
+  },
+  {
+    "filename": "n15.wav",
+    "emotion": "neutral",
+    "transcription": "HE RIPPED DOWN THE CELEPHANE CAREFULLY AND LAID THREE DOGS ON THE TINFOIL"
+  },
+  {
+    "filename": "f04.wav",
+    "emotion": "fearful",
+    "transcription": "CAUTAN AMBULANCE FROM MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "h13.wav",
+    "emotion": "happy",
+    "transcription": "HE WOULD NOT CARRY A BRIEF CASE"
+  },
+  {
+    "filename": "f10.wav",
+    "emotion": "fearful",
+    "transcription": "WE'LL ROB IN WHERE A YELLOW LILY"
+  },
+  {
+    "filename": "su04.wav",
+    "emotion": "surprised",
+    "transcription": "THE CARPET CLEAN IS CHAMPOOTE ORENTAL RUG"
+  },
+  {
+    "filename": "h11.wav",
+    "emotion": "happy",
+    "transcription": "BY THAT ONE FEELS THAT MAGNETIC FORCES ARE AS GENERAL AS ELECTRICAL FORCES"
+  },
+  {
+    "filename": "n20.wav",
+    "emotion": "neutral",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY AUDITS"
+  },
+  {
+    "filename": "sa10.wav",
+    "emotion": "sad",
+    "transcription": "JEFF THOUGHT YOU ARGUED IN FAVOR OF A CENTRIFUGE PURCHASE"
+  },
+  {
+    "filename": "n24.wav",
+    "emotion": "neutral",
+    "transcription": "TORNADOES OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "n02.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "sa08.wav",
+    "emotion": "sad",
+    "transcription": "JOHN CLEANS SHELLFISH FOR A LIVING"
+  },
+  {
+    "filename": "h14.wav",
+    "emotion": "happy",
+    "transcription": "OBVIOUSLY THE BRIDAL PAIR HAS MANY ADJUSTMENTS TO MAKE THEIR NEW SITUATION"
+  },
+  {
+    "filename": "a03.wav",
+    "emotion": "angry",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a11.wav",
+    "emotion": "angry",
+    "transcription": "A FEW YEARS LATER THE DOME FELL IN"
+  },
+  {
+    "filename": "sa03.wav",
+    "emotion": "sad",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a10.wav",
+    "emotion": "angry",
+    "transcription": "KINDERGARD AN CHILDREN DECORATE THEIR CLASSINGS FOR ALL HOLIDAYS"
+  },
+  {
+    "filename": "h06.wav",
+    "emotion": "happy",
+    "transcription": "THAT NOISE PROBLEM GROWS MORE ANNOYING EACH DAY"
+  },
+  {
+    "filename": "n11.wav",
+    "emotion": "neutral",
+    "transcription": "AS SUCH IT WAS BEYOND POLITICS AND HAD NO NEED OF JUSTIFICATION BY A MESSAGE"
+  },
+  {
+    "filename": "su01.wav",
+    "emotion": "surprised",
+    "transcription": "SHAT YOUR DARK HUE O GREASTY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "n18.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a09.wav",
+    "emotion": "angry",
+    "transcription": "RIGHT NOW MAY NOT BE THE BEST TIME FOR BUSINESS MERGES"
+  },
+  {
+    "filename": "a05.wav",
+    "emotion": "angry",
+    "transcription": "DESTROY EVERY FIRE RELATHES MY AUDITS"
+  },
+  {
+    "filename": "n14.wav",
+    "emotion": "neutral",
+    "transcription": "KEEP YOUR SEATS BOYS I JUST WANT TO PUT SOME FINISHING TOUCHES ON THIS THING"
+  },
+  {
+    "filename": "d01.wav",
+    "emotion": "disgust",
+    "transcription": "SHUT YOU DARK SUP AND GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "a06.wav",
+    "emotion": "angry",
+    "transcription": "CORI AN TRICH PLAYED TAG WITH BEECHBORDS FOR HOURS"
+  },
+  {
+    "filename": "n08.wav",
+    "emotion": "neutral",
+    "transcription": "GREGG BUYS FRESH MILK EACH WEEKDAY MORNING"
+  },
+  {
+    "filename": "h04.wav",
+    "emotion": "happy",
+    "transcription": "THOSE MUSICIANS HARMONIZED MARVELLOUSLY"
+  },
+  {
+    "filename": "n12.wav",
+    "emotion": "neutral",
+    "transcription": "HE ALWAYS SEEMED TO HAVE MONEY IN HIS POCKET"
+  },
+  {
+    "filename": "d14.wav",
+    "emotion": "disgust",
+    "transcription": "HOW MUCH AND HOW MANY PROFITS COULD A MAJORITY TAKE OUT THE LOSSS OF A FEW"
+  },
+  {
+    "filename": "f11.wav",
+    "emotion": "fearful",
+    "transcription": "THEIR PROPS FOR TWO STEPLOTERS A CHAIR AND A PALM FIRM"
+  },
+  {
+    "filename": "su03.wav",
+    "emotion": "surprised",
+    "transcription": "WEE TELL ME WHY"
+  },
+  {
+    "filename": "f03.wav",
+    "emotion": "fearful",
+    "transcription": "WILL IE TOBY WHY"
+  },
+  {
+    "filename": "f07.wav",
+    "emotion": "fearful",
+    "transcription": "THAT DARKRM MAKES SENSE ONLY HALF TOO MUCH STUDY"
+  },
+  {
+    "filename": "d05.wav",
+    "emotion": "disgust",
+    "transcription": "THE SMALL BOY PUT THE WORM ON THE HOOK"
+  },
+  {
+    "filename": "a12.wav",
+    "emotion": "angry",
+    "transcription": "BUT IN THE ONE SECTION WE WELCOMED AUDITORS"
+  },
+  {
+    "filename": "d11.wav",
+    "emotion": "disgust",
+    "transcription": "THE FARMERS RENTED THE RENT WAS REPAID"
+  },
+  {
+    "filename": "n09.wav",
+    "emotion": "neutral",
+    "transcription": "AGRICULTURAL PRODUCTS ARE UNEVENLY DISTRIBUTED"
+  },
+  {
+    "filename": "n17.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN ALL HE RAGGED LIKE THAT"
+  },
+  {
+    "filename": "f01.wav",
+    "emotion": "fearful",
+    "transcription": "SHE HAD YOUR DARK SEET AND GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "f08.wav",
+    "emotion": "fearful",
+    "transcription": "SPECIAL TASK FORCES RESCUE HOSTAGES FROM KIDNAPPERS"
+  },
+  {
+    "filename": "f02.wav",
+    "emotion": "fearful",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "su08.wav",
+    "emotion": "surprised",
+    "transcription": "THE CLUMBY CUST THEM A SPILTS OM EXPENSIVE PERFUME"
+  },
+  {
+    "filename": "d13.wav",
+    "emotion": "disgust",
+    "transcription": "PRETTY SOON A WOMEN CAME ALONG CARRYING A FOLDED UMBRELLAIES OF WALKING STICK"
+  },
+  {
+    "filename": "sa09.wav",
+    "emotion": "sad",
+    "transcription": "HE STOLE A DIME FROM A BEGGAR"
+  },
+  {
+    "filename": "f12.wav",
+    "emotion": "fearful",
+    "transcription": "THIS IS A PROBLEM THAT GOE CONSIDERABLY BEYOND QUESTIONS OF SARANTENA"
+  },
+  {
+    "filename": "d12.wav",
+    "emotion": "disgust",
+    "transcription": "THE BARGIASTRAPHYSICS"
+  },
+  {
+    "filename": "su02.wav",
+    "emotion": "surprised",
+    "transcription": "DON'T ASK ME TO CARRY AN ORDY RACK LIKE THAT"
+  },
+  {
+    "filename": "h05.wav",
+    "emotion": "happy",
+    "transcription": "THE EASTERN COAST IS A PLACE FOR PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "su07.wav",
+    "emotion": "surprised",
+    "transcription": "I'D RIDE THE SUBBOY BUT A HAMTONOGH CHANGE"
+  },
+  {
+    "filename": "d02.wav",
+    "emotion": "disgust",
+    "transcription": "DON'T ASK ME TO CARRY AN ALL Y RAG LIKE THAT"
+  },
+  {
+    "filename": "h01.wav",
+    "emotion": "happy",
+    "transcription": "SHE HAD YOUR DARK SUSE AND GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "sa01.wav",
+    "emotion": "sad",
+    "transcription": "SHE HAD YOUR DARK SOUTS AND GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "d04.wav",
+    "emotion": "disgust",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLECLOTHS THE CLEANEST FOR ME"
+  },
+  {
+    "filename": "f05.wav",
+    "emotion": "fearful",
+    "transcription": "TORNADOS OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "h15.wav",
+    "emotion": "happy",
+    "transcription": "BOTH THE CONDITIONS AND THE COMPLICITY ARE DOCUMENTED IN CONSIDERABLE DETAILS"
+  },
+  {
+    "filename": "n29.wav",
+    "emotion": "neutral",
+    "transcription": "THOSE MUSICIANS HARMONIZE MARVELLOUSLY"
+  },
+  {
+    "filename": "sa13.wav",
+    "emotion": "sad",
+    "transcription": "BUT THE SHIPS ARE VERY SLOW NOW AND WE DON'T GET SO MANY SAILORS ANY MORE"
+  },
+  {
+    "filename": "sa02.wav",
+    "emotion": "sad",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "n28.wav",
+    "emotion": "neutral",
+    "transcription": "THE DIAGNOTIS WAS DISCOURAGING HOWEVER HE WAS NOT OVERLY WORRIED"
+  },
+  {
+    "filename": "n21.wav",
+    "emotion": "neutral",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLECLOTH TO THE CLEANEST FOR ME"
+  },
+  {
+    "filename": "su09.wav",
+    "emotion": "surprised",
+    "transcription": "PLEASE DIG MY POTATOES UP BEFORE FROST"
+  },
+  {
+    "filename": "f06.wav",
+    "emotion": "fearful",
+    "transcription": "STRAW HATS ARE OUT OF FASHION MONSIEUR"
+  },
+  {
+    "filename": "su05.wav",
+    "emotion": "surprised",
+    "transcription": "HIS SHOULDER FELT AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "n23.wav",
+    "emotion": "neutral",
+    "transcription": "CALL AN AMBULANCE FOR MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "d10.wav",
+    "emotion": "disgust",
+    "transcription": "PEOPLE WARE MORE GENEROUS THERE W'LD BE NO NEED FOR WELFARE"
+  },
+  {
+    "filename": "su12.wav",
+    "emotion": "surprised",
+    "transcription": "PROPERLY USED THE PRESENT BOOK IS AN EXCELLENT INSTRUMENT OF ENLIGHTENMENT"
+  },
+  {
+    "filename": "n16.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT AN GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "h07.wav",
+    "emotion": "happy",
+    "transcription": "PROJECT DEVELOPMENT WAS PEATING TOO SLOWLY"
+  },
+  {
+    "filename": "d09.wav",
+    "emotion": "disgust",
+    "transcription": "CEMBER AND JANUARY A NICE MONTH TO SPEND IN MY AMME"
+  },
+  {
+    "filename": "h03.wav",
+    "emotion": "happy",
+    "transcription": "WILL IT TELL ME WHY"
+  },
+  {
+    "filename": "su11.wav",
+    "emotion": "surprised",
+    "transcription": "SALVATION RECONSIDERED"
+  },
+  {
+    "filename": "su06.wav",
+    "emotion": "surprised",
+    "transcription": "THE VIEWPOINT OVERLOOKED THE OCEAN"
+  },
+  {
+    "filename": "a08.wav",
+    "emotion": "angry",
+    "transcription": "WITHDRAW ALL PHONY ACCUSATIONS AT ONCE"
+  },
+  {
+    "filename": "su14.wav",
+    "emotion": "surprised",
+    "transcription": "BUT THIS DOESN'T DETRACT FROM ITS MERIT IS AN INTERESTING IF NOT GREAT FILM"
+  },
+  {
+    "filename": "a13.wav",
+    "emotion": "angry",
+    "transcription": "LOT OF PEOPLE WROAM THE STREETS IN COSSUMES AND MASTS IN HAVING A BALL"
+  },
+  {
+    "filename": "d08.wav",
+    "emotion": "disgust",
+    "transcription": "BAH BURN PAPER AND LEADS YOU THE BIG BONFIRE"
+  },
+  {
+    "filename": "su10.wav",
+    "emotion": "surprised",
+    "transcription": "GRANDMOTHER OUTGREW HER UP BRINGING PETTICOATS"
+  },
+  {
+    "filename": "d07.wav",
+    "emotion": "disgust",
+    "transcription": "HOW GOOD IS YOUR ENDURANCE"
+  },
+  {
+    "filename": "sa15.wav",
+    "emotion": "sad",
+    "transcription": "THE MANUFACTURER HAS TAKEN THE INITIATIVE IN POINTING OUT THE COSTS INVOLVED"
+  },
+  {
+    "filename": "h08.wav",
+    "emotion": "happy",
+    "transcription": "THE AASIS WAS A GRAGE"
+  },
+  {
+    "filename": "a14.wav",
+    "emotion": "angry",
+    "transcription": "IN MANY OF HIS POEM'S DEATH COMES BY TRAIN A STRONGLY EVOCATAVE VISUAL IMAGE"
+  },
+  {
+    "filename": "n10.wav",
+    "emotion": "neutral",
+    "transcription": "THE NEAREST SYNEGOGUE MAY NOT BE WITHIN WALKING DISTANCE"
+  },
+  {
+    "filename": "a04.wav",
+    "emotion": "angry",
+    "transcription": "WHO AUTHORIZED YOU UNLIMITED EXPENSE ACCOUNTS"
+  },
+  {
+    "filename": "f13.wav",
+    "emotion": "fearful",
+    "transcription": "THE PULSING GLOVE IS CIGARETTE"
+  },
+  {
+    "filename": "sa11.wav",
+    "emotion": "sad",
+    "transcription": "HOWEVER THE LITTER REMAINED AUGMENTED BY SEVERAL DOZEN LUNCHREAM SUPPERS"
+  },
+  {
+    "filename": "n27.wav",
+    "emotion": "neutral",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "a15.wav",
+    "emotion": "angry",
+    "transcription": "THEN HE WOULD REALIZE THEY WERE REALLY THINGS THAT ONLY HE HIMSELF COULD THINK"
+  },
+  {
+    "filename": "sa07.wav",
+    "emotion": "sad",
+    "transcription": "THEY ENJOY IT WHEN I ADDITION"
+  },
+  {
+    "filename": "f15.wav",
+    "emotion": "fearful",
+    "transcription": "WE WILL ACHIEVE A MORE VIVID SENSE DIWOTITIS BY REALISING WHAT TIS NOT"
+  },
+  {
+    "filename": "h02.wav",
+    "emotion": "happy",
+    "transcription": "DON'T ASK MISS CARRIN ALL HE RAG LIKE THAT"
+  },
+  {
+    "filename": "n13.wav",
+    "emotion": "neutral",
+    "transcription": "NO RETURN ADDRESSED WHATEVER"
+  },
+  {
+    "filename": "a07.wav",
+    "emotion": "angry",
+    "transcription": "HE WILL ALLOW A RARE LIE"
+  },
+  {
+    "filename": "sa04.wav",
+    "emotion": "sad",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "sa12.wav",
+    "emotion": "sad",
+    "transcription": "AMERICAN NEWSPAPER REVIEW IS LIKE TO CALL HIS PLAYS NIALISTIC"
+  },
+  {
+    "filename": "sa06.wav",
+    "emotion": "sad",
+    "transcription": "BEFORE THURSDAY'S EXAM REVIEW EVERY FORMULA"
+  },
+  {
+    "filename": "n07.wav",
+    "emotion": "neutral",
+    "transcription": "ALLOW LEE WAY HERE BUT RATIONALIZE ALL ERRORS"
+  },
+  {
+    "filename": "sa05.wav",
+    "emotion": "sad",
+    "transcription": "THE DIAGNOTICES WAS DISCOURAGING HOWEVER HE WAS NOT OVALLY WORRIED"
+  },
+  {
+    "filename": "f14.wav",
+    "emotion": "fearful",
+    "transcription": "ONE LOOKED DOWN ON THE SEA OF LEAVES THE BREAKING WAVE OF FLOWER"
+  },
+  {
+    "filename": "n06.wav",
+    "emotion": "neutral",
+    "transcription": "CATESTROPHIC ECONOMIC CUT BATS NEGLECT THE POOR"
+  },
+  {
+    "filename": "n30.wav",
+    "emotion": "neutral",
+    "transcription": "THE EASTIN COAST IS A PLACE FOR PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "n26.wav",
+    "emotion": "neutral",
+    "transcription": "HIS SHOULDER FELT AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "su15.wav",
+    "emotion": "surprised",
+    "transcription": "HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS"
+  },
+  {
+    "filename": "d15.wav",
+    "emotion": "disgust",
+    "transcription": "THE SOCIETY REALLY EXISTS AS I MENSITY OVERAND ABOVE THE EGGLOMERATION OF MEN"
+  },
+  {
+    "filename": "d06.wav",
+    "emotion": "disgust",
+    "transcription": "BASKET BULL COULD BE THEN SEEING SPORT"
+  },
+  {
+    "filename": "n22.wav",
+    "emotion": "neutral",
+    "transcription": "THE SMALL BOY PUT THE WORM ON THE HOOK"
+  },
+  {
+    "filename": "sa14.wav",
+    "emotion": "sad",
+    "transcription": "IT IS ONE OF THE RARE PUBLIC VENTURES HERE ON WHICH NEARLY EVERY ONE IS AGREED"
+  },
+  {
+    "filename": "a01.wav",
+    "emotion": "angry",
+    "transcription": "SHE HAD YOUR DART SOUSE AND GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "n03.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "n19.wav",
+    "emotion": "neutral",
+    "transcription": "WHO AUTHORIZED THE UNLIMITED EXPENSE ACCOUNT"
+  },
+  {
+    "filename": "f09.wav",
+    "emotion": "fearful",
+    "transcription": "THE TOTH FARE HE FORGOT TO COME WHEN ROGERS TOOTH FELL OUT"
+  },
+  {
+    "filename": "a02.wav",
+    "emotion": "angry",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "h10.wav",
+    "emotion": "happy",
+    "transcription": "SAVE THE COLSLOW AFTER I ADD THE OIL"
+  },
+  {
+    "filename": "h12.wav",
+    "emotion": "happy",
+    "transcription": "HIS ARTISTIC ACCOMPLISHMENTS GUARANTEED HIM ENTRY INTO ANY SOCIAL GATHERING"
+  },
+  {
+    "filename": "n05.wav",
+    "emotion": "neutral",
+    "transcription": "CALCIA MIXED BONES AND TEETH STRONG"
+  },
+  {
+    "filename": "d03.wav",
+    "emotion": "disgust",
+    "transcription": "WILL YE TELL ME WHY"
+  },
+  {
+    "filename": "n25.wav",
+    "emotion": "neutral",
+    "transcription": "THE CARPET CLEAN US SHAMPOOED OUR ORIENTAL RAG"
+  },
+  {
+    "filename": "n01.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEUR"
+  },
+  {
+    "filename": "h09.wav",
+    "emotion": "happy",
+    "transcription": "ARE YOU GREAT HIGHER OR LOWER THAN NANCIES"
+  },
+  {
+    "filename": "su13.wav",
+    "emotion": "surprised",
+    "transcription": "LIGHTED WINDOWS GLOWED JELD BRIGHT THROUGH THE DOWNPOR"
+  },
+  {
+    "filename": "n04.wav",
+    "emotion": "neutral",
+    "transcription": "THE BEST WE TO LEARN IS THE SOUL OF EXTRA PROBLEMS"
+  },
+  {
+    "filename": "n15.wav",
+    "emotion": "neutral",
+    "transcription": "HE RIPPED DOWN THE CALAR FIN CAREFULLY AND LAID THREE DOGS ON THE TIN FILE"
+  },
+  {
+    "filename": "f04.wav",
+    "emotion": "fearful",
+    "transcription": "CALL AN AMBOL AND SOME MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "h13.wav",
+    "emotion": "happy",
+    "transcription": "HE WOULD NOT CARRY A BRIEF CASE"
+  },
+  {
+    "filename": "f10.wav",
+    "emotion": "fearful",
+    "transcription": "WILL ROBIN WEAR A YELLOW LILY"
+  },
+  {
+    "filename": "su04.wav",
+    "emotion": "surprised",
+    "transcription": "THE CARPET CLEANES CHAMPOOED OUR ORIENTAL RUG"
+  },
+  {
+    "filename": "h11.wav",
+    "emotion": "happy",
+    "transcription": "BY THAT ONE FEELS THAT MAGNETIC FORCES ARE AS GENERAL AS ELECTRICAL FORCES"
+  },
+  {
+    "filename": "n20.wav",
+    "emotion": "neutral",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY ORDITS"
+  },
+  {
+    "filename": "sa10.wav",
+    "emotion": "sad",
+    "transcription": "JEOFF THOUGHT YOU ARGUED IN FAVOR OF A CENDREPHUD'S PURCHASE"
+  },
+  {
+    "filename": "n24.wav",
+    "emotion": "neutral",
+    "transcription": "TORNADOES OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "n02.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN ILY RAG LIKE THAT"
+  },
+  {
+    "filename": "sa08.wav",
+    "emotion": "sad",
+    "transcription": "JOHN CLEAN SHELL FISH FOR A LIVING"
+  },
+  {
+    "filename": "h14.wav",
+    "emotion": "happy",
+    "transcription": "OBVIOUSLY THE BRIDLE PAIR HAS MANY ADJUSTMENTS TO MAKE TOR THE NEW SITUATION"
+  },
+  {
+    "filename": "a03.wav",
+    "emotion": "angry",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a11.wav",
+    "emotion": "angry",
+    "transcription": "A FEW YEARS LATER THE DAWN FELL IN"
+  },
+  {
+    "filename": "sa03.wav",
+    "emotion": "sad",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a10.wav",
+    "emotion": "angry",
+    "transcription": "KIN THE GARDEN CHILDREN DECORATE THE CLASS ROOMS FOR ALL HOLIDAYS"
+  },
+  {
+    "filename": "h06.wav",
+    "emotion": "happy",
+    "transcription": "THAT NICE PROBLEM GROWS MORE ANIYGHING EACH DAY"
+  },
+  {
+    "filename": "n11.wav",
+    "emotion": "neutral",
+    "transcription": "AS SUCH IT WAS BEYOND POLITICS AND HAD NO NEED OF JUSTIFICATION BY A MESSAGE"
+  },
+  {
+    "filename": "su01.wav",
+    "emotion": "surprised",
+    "transcription": "SHOULL YE DARK SEATING GREASY WASHWATER ALL YE"
+  },
+  {
+    "filename": "n18.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a09.wav",
+    "emotion": "angry",
+    "transcription": "RIGHT NO MAY NOT BE THE BEST TIME FOR BUSINESS MURGERS"
+  },
+  {
+    "filename": "a05.wav",
+    "emotion": "angry",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY OUDITS"
+  },
+  {
+    "filename": "n14.wav",
+    "emotion": "neutral",
+    "transcription": "KEEP YOUR SEATS BOYS I JUST WANT TO PUT SOME FINISHING TOUCHES ON THIS THING"
+  },
+  {
+    "filename": "d01.wav",
+    "emotion": "disgust",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "a06.wav",
+    "emotion": "angry",
+    "transcription": "CORIANTRESSH PLAYED TAG WITH BEECHBALLS FOR HOURS"
+  },
+  {
+    "filename": "n08.wav",
+    "emotion": "neutral",
+    "transcription": "GREGG BUYS FRESH MILK EACH WEEK DAY MORNING"
+  },
+  {
+    "filename": "h04.wav",
+    "emotion": "happy",
+    "transcription": "THOSE MUSICIANS HARMONIZED MARVELOUSLY"
+  },
+  {
+    "filename": "n12.wav",
+    "emotion": "neutral",
+    "transcription": "HE ALWAYS SEEMED TO HAVE MONEY IN HIS POCKET"
+  },
+  {
+    "filename": "d14.wav",
+    "emotion": "disgust",
+    "transcription": "HOW MUCH AND HOW MANY PROFITS COULD A MAJORITY TAKE OUT OF THE LOSSES OF A FEW"
+  },
+  {
+    "filename": "f11.wav",
+    "emotion": "fearful",
+    "transcription": "THEIR PROPS WERE TWO STEP LADDERS A CHAIR AND A PALM FAN"
+  },
+  {
+    "filename": "su03.wav",
+    "emotion": "surprised",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f03.wav",
+    "emotion": "fearful",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f07.wav",
+    "emotion": "fearful",
+    "transcription": "THAT TIAGRAMIX SENSE ONLY AFTER MUCH STUDY"
+  },
+  {
+    "filename": "d05.wav",
+    "emotion": "disgust",
+    "transcription": "THE SMALL BOY PUT THE WORM ON THE HUK"
+  },
+  {
+    "filename": "a12.wav",
+    "emotion": "angry",
+    "transcription": "BUT IN THIS ONE SECTION WE WELCOMED ORDITORS"
+  },
+  {
+    "filename": "d11.wav",
+    "emotion": "disgust",
+    "transcription": "IF THE FARM IS RENTED THE RENT MUST BE PAID"
+  },
+  {
+    "filename": "n09.wav",
+    "emotion": "neutral",
+    "transcription": "AGRICULTURAL PRODUCTS ARE UNEVENLY DISTRIBUTED"
+  },
+  {
+    "filename": "n17.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "f01.wav",
+    "emotion": "fearful",
+    "transcription": "SHELL YE DARK SEAT IN CRISSY WASHWATER WHOLE YEAR"
+  },
+  {
+    "filename": "f08.wav",
+    "emotion": "fearful",
+    "transcription": "SPECIAL TASK FORCES RESCUE HOSTAGES FROM KIDNAPPERS"
+  },
+  {
+    "filename": "f02.wav",
+    "emotion": "fearful",
+    "transcription": "DON'T ASK ME TO CARRY A NOILY ROG LIKE THAT"
+  },
+  {
+    "filename": "su08.wav",
+    "emotion": "surprised",
+    "transcription": "THE CLUMSY CUSTOMER SPILT SOME EXPENSIVE PERFUME"
+  },
+  {
+    "filename": "d13.wav",
+    "emotion": "disgust",
+    "transcription": "PRETTY SOON A WOMAN CAME ALONG CARRYING A FOLDED UMBRELLA AS A WALKING STICK"
+  },
+  {
+    "filename": "sa09.wav",
+    "emotion": "sad",
+    "transcription": "HE STOLE A DIAME FROM A BEGGAR"
+  },
+  {
+    "filename": "f12.wav",
+    "emotion": "fearful",
+    "transcription": "THIS IS A PROBLEM THAT GOES CONSIDERABLY BEYOND QUESTIONS OF SALARY AND TENURE"
+  },
+  {
+    "filename": "d12.wav",
+    "emotion": "disgust",
+    "transcription": "LABORATORY LABORATORYASTROPHYSICS"
+  },
+  {
+    "filename": "su02.wav",
+    "emotion": "surprised",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "h05.wav",
+    "emotion": "happy",
+    "transcription": "THE EASTERN COAST IS A PLACE FOR PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "su07.wav",
+    "emotion": "surprised",
+    "transcription": "I'D WRITE THE SABWAY BUT I HAVEN'T ENOUGH CHANGE"
+  },
+  {
+    "filename": "d02.wav",
+    "emotion": "disgust",
+    "transcription": "DON'T ASK ME TO CARRY AN ILY RAG LIKE THAT"
+  },
+  {
+    "filename": "h01.wav",
+    "emotion": "happy",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHORDER OLE YEAR"
+  },
+  {
+    "filename": "sa01.wav",
+    "emotion": "sad",
+    "transcription": "SHE HAD YOUR DARK SEAT IN GREASY WASH WATER WHOLE YEAR"
+  },
+  {
+    "filename": "d04.wav",
+    "emotion": "disgust",
+    "transcription": "PLEASE TAKE THIS DIRTY TEARABLE CLOTH TO THE CLEANESS FOR ME"
+  },
+  {
+    "filename": "f05.wav",
+    "emotion": "fearful",
+    "transcription": "TONE DOS OFFIN TE STROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "h15.wav",
+    "emotion": "happy",
+    "transcription": "BOTH THE CONDITIONS AND THE COMPLICITY ARE DOCUMENTED IN CONSIDERABLE DETAILS"
+  },
+  {
+    "filename": "n29.wav",
+    "emotion": "neutral",
+    "transcription": "THOSE MUSICIANS HARMONIZE MARVELOUSLY"
+  },
+  {
+    "filename": "sa13.wav",
+    "emotion": "sad",
+    "transcription": "BUT THE SHIPS ARE VERY SLOW NOW AND WE DON'T GET SO MANY SAILORS ANY MORE"
+  },
+  {
+    "filename": "sa02.wav",
+    "emotion": "sad",
+    "transcription": "TO DASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "n28.wav",
+    "emotion": "neutral",
+    "transcription": "HE DIAGNOSIS WAS DISCOURAGING HOWEVER HE WAS NOT OVELLY WORRIED"
+  },
+  {
+    "filename": "n21.wav",
+    "emotion": "neutral",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLE CLOTH TO THE CLEANEST FOR ME"
+  },
+  {
+    "filename": "su09.wav",
+    "emotion": "surprised",
+    "transcription": "PLEASE DIG MY POTATOES UP BEFOR FROST"
+  },
+  {
+    "filename": "f06.wav",
+    "emotion": "fearful",
+    "transcription": "STRAW HAT ARE I A FASHION THIS YEAR"
+  },
+  {
+    "filename": "su05.wav",
+    "emotion": "surprised",
+    "transcription": "HIS SHOULDER FELT AS IF HIT WERE BROKEN"
+  },
+  {
+    "filename": "n23.wav",
+    "emotion": "neutral",
+    "transcription": "CALLAN AMBULANCE FOR MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "d10.wav",
+    "emotion": "disgust",
+    "transcription": "IF PEOPLE WERE MORE GENEROUS THERE WOULD BE NO NEED FOR WARFARE"
+  },
+  {
+    "filename": "su12.wav",
+    "emotion": "surprised",
+    "transcription": "PROPERLY USE THE PRESENT BOOK IS IN AN EXCELLENT INSTRUMENT OF ENLIGHTENMENT"
+  },
+  {
+    "filename": "n16.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR"
+  },
+  {
+    "filename": "h07.wav",
+    "emotion": "happy",
+    "transcription": "PROJECT DEVELOPMENT WAS PROCEEDING TOO SLOWLY"
+  },
+  {
+    "filename": "d09.wav",
+    "emotion": "disgust",
+    "transcription": "DECEMBER AND JANUARY AND NICE MONTHS TO SPENDED MY ARMY"
+  },
+  {
+    "filename": "h03.wav",
+    "emotion": "happy",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "su11.wav",
+    "emotion": "surprised",
+    "transcription": "SALVATION RECONSIDERED"
+  },
+  {
+    "filename": "su06.wav",
+    "emotion": "surprised",
+    "transcription": "THE VEWPOINT OVERLOOKED THE OCEAN"
+  },
+  {
+    "filename": "a08.wav",
+    "emotion": "angry",
+    "transcription": "WITHDRAW ALL FORNY ACQUISITIONS AT ONCE"
+  },
+  {
+    "filename": "su14.wav",
+    "emotion": "surprised",
+    "transcription": "BUT THIS DOESN'T DETRACT FROM ITS MERIT AS AN INTERESTING IF NOT GREAT FILM"
+  },
+  {
+    "filename": "a13.wav",
+    "emotion": "angry",
+    "transcription": "LOT OF PEOPLE WILL ROAM THE STREETS IN COSTUMES IN MASKS AND HAVING A BOLL"
+  },
+  {
+    "filename": "d08.wav",
+    "emotion": "disgust",
+    "transcription": "BARB BURNED PAPER AND LEAVES IN A BIG BONFIRE"
+  },
+  {
+    "filename": "su10.wav",
+    "emotion": "surprised",
+    "transcription": "GRANDMOTHER OUTGREW HER UP BRINGING IN PEDDICOATS"
+  },
+  {
+    "filename": "d07.wav",
+    "emotion": "disgust",
+    "transcription": "HOW GOOD IS YOUR ENDURANCE"
+  },
+  {
+    "filename": "sa15.wav",
+    "emotion": "sad",
+    "transcription": "NO MANUFACTURER HAS TAKEN THE INITIATIVE IN POINTING OUT THE COSTS INVOLVED"
+  },
+  {
+    "filename": "h08.wav",
+    "emotion": "happy",
+    "transcription": "THE WASTIS WAS MARAGE"
+  },
+  {
+    "filename": "a14.wav",
+    "emotion": "angry",
+    "transcription": "IN MANY OF HIS POEMS DEATH COMES BY TRAIN A STRONG EVOCATIVE VISUAL IMAGE"
+  },
+  {
+    "filename": "n10.wav",
+    "emotion": "neutral",
+    "transcription": "THE NEAREST SINAGOGUE MAY NOT BE WITHIN WALKING DISTANCE"
+  },
+  {
+    "filename": "a04.wav",
+    "emotion": "angry",
+    "transcription": "WHO AUTHORIZE YOU LIMBID EXPENSE AR COUNT"
+  },
+  {
+    "filename": "f13.wav",
+    "emotion": "fearful",
+    "transcription": "THE PULSING GLOW OF A CIGARETTE"
+  },
+  {
+    "filename": "sa11.wav",
+    "emotion": "sad",
+    "transcription": "HOWEVER THE LITTER REMAINED AUGMENTED BY SEVERAL DOZEN LUNCHROOM SUPPERS"
+  },
+  {
+    "filename": "n27.wav",
+    "emotion": "neutral",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "a15.wav",
+    "emotion": "angry",
+    "transcription": "THEN HE WOULD REALIZE THEY WERE REALLY THINGS THAT ONLY HE HIMSELF COULD THINK"
+  },
+  {
+    "filename": "sa07.wav",
+    "emotion": "sad",
+    "transcription": "THEY ENJOY IT WHEN I OR DITION"
+  },
+  {
+    "filename": "f15.wav",
+    "emotion": "fearful",
+    "transcription": "WE WILL ACHIEVE A MORE VIVID SENSE OF WHAT IT IS BY REALIZING WHAT IT IS NOT"
+  },
+  {
+    "filename": "h02.wav",
+    "emotion": "happy",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT"
+  },
+  {
+    "filename": "n13.wav",
+    "emotion": "neutral",
+    "transcription": "NOR RETURN ADDRESS WHATSOEVER"
+  },
+  {
+    "filename": "a07.wav",
+    "emotion": "angry",
+    "transcription": "HE WILL ALLOW A RARE LIE"
+  },
+  {
+    "filename": "sa04.wav",
+    "emotion": "sad",
+    "transcription": "THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "sa12.wav",
+    "emotion": "sad",
+    "transcription": "AMERICAN NEWSPAPER REVIEWERS LIKE TO CALL HIS PLEASE NIILISTIC"
+  },
+  {
+    "filename": "sa06.wav",
+    "emotion": "sad",
+    "transcription": "BEFORE THIRD DAYS EXAMI REVIEW EVERY FORMULA"
+  },
+  {
+    "filename": "n07.wav",
+    "emotion": "neutral",
+    "transcription": "A LOW LEE WAY HERE BUT RATIONALIZE ALL ERRORS"
+  },
+  {
+    "filename": "sa05.wav",
+    "emotion": "sad",
+    "transcription": "THE DIAGNOSIS WAS DISCOURAGING HOWEVER HE WAS NOT OVERLY WORRIED"
+  },
+  {
+    "filename": "f14.wav",
+    "emotion": "fearful",
+    "transcription": "ONE LOOKED DOWN ON THE SEA OF LEAVES A BREAKING WAVE OF FLOWER"
+  },
+  {
+    "filename": "n06.wav",
+    "emotion": "neutral",
+    "transcription": "CATESTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR"
+  },
+  {
+    "filename": "n30.wav",
+    "emotion": "neutral",
+    "transcription": "THE EASTERN COAST IS A PLACE FOR PURER PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "n26.wav",
+    "emotion": "neutral",
+    "transcription": "HIS SHOULDER FELT AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "su15.wav",
+    "emotion": "surprised",
+    "transcription": "HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS"
+  },
+  {
+    "filename": "d15.wav",
+    "emotion": "disgust",
+    "transcription": "THE SOCIETY REALLY EXISTS AS AN ENTITY OVER AND ABOVE THE AGGLOMERATION OF MEN"
+  },
+  {
+    "filename": "d06.wav",
+    "emotion": "disgust",
+    "transcription": "BASKET BALL CAN BE AN ENTERTAINING SPORT"
+  },
+  {
+    "filename": "n22.wav",
+    "emotion": "neutral",
+    "transcription": "THE SMALL BODY PUT THE WORM ON THE HOOK"
+  },
+  {
+    "filename": "sa14.wav",
+    "emotion": "sad",
+    "transcription": "IT IS ONE OF THE RARE PUBLIC VENTURES HERE ON WHICH NEEDLY EVERY ONE IS AGREED"
+  },
+  {
+    "filename": "a01.wav",
+    "emotion": "angry",
+    "transcription": "SHED YOUR DARK SUIT AND GREASY WASH WATER ALL YEAR"
+  },
+  {
+    "filename": "n03.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "n19.wav",
+    "emotion": "neutral",
+    "transcription": "WHO AUTHORIZED UNLOMITED EXPENSERCONE"
+  },
+  {
+    "filename": "f09.wav",
+    "emotion": "fearful",
+    "transcription": "THE TWO FIR FORGOT TO COME WHEN RORE JUST TWO FELLOWS"
+  },
+  {
+    "filename": "a02.wav",
+    "emotion": "angry",
+    "transcription": "DON'T ASK ME TO CURRY AN OILE ROGGLY GOUT"
+  },
+  {
+    "filename": "h10.wav",
+    "emotion": "happy",
+    "transcription": "SERVE THE COLCHAL AFTER I ADD THE OIL"
+  },
+  {
+    "filename": "h12.wav",
+    "emotion": "happy",
+    "transcription": "HIS ARTISTIC ACCOMPLISHMENTS GUARANTEED HIM ENTRY TO EVERY SOCIAL GATHERINE"
+  },
+  {
+    "filename": "n05.wav",
+    "emotion": "neutral",
+    "transcription": "CALSIO MAKES BORNS AND TEETH STRONG"
+  },
+  {
+    "filename": "d03.wav",
+    "emotion": "disgust",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "n25.wav",
+    "emotion": "neutral",
+    "transcription": "TE CARPET CLUNO SHAMPOUD OR ORIENTAL ROG"
+  },
+  {
+    "filename": "n01.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SOUT IN CREASY WASHWAR FALL YEA"
+  },
+  {
+    "filename": "h09.wav",
+    "emotion": "happy",
+    "transcription": "ARE YOUR GREAT HIGHER OR LOWER THAN NANCES"
+  },
+  {
+    "filename": "su13.wav",
+    "emotion": "surprised",
+    "transcription": "LIGHT IN WINDOWS GLORED JEWELD BRIGHT THROUGH THE DOME PORE"
+  },
+  {
+    "filename": "n04.wav",
+    "emotion": "neutral",
+    "transcription": "THE BEST WAY TO LEARN IS TO SOLVE EXTRA PROBLEMS"
+  },
+  {
+    "filename": "n15.wav",
+    "emotion": "neutral",
+    "transcription": "HE RIPPED DOWN THE CELLAPINE CAREFULLY AND LAID THREE DOGS ON THE TURNFOIL"
+  },
+  {
+    "filename": "f04.wav",
+    "emotion": "fearful",
+    "transcription": "COLONOMBULAN'E ROMEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "h13.wav",
+    "emotion": "happy",
+    "transcription": "HE WOULD NOT CARRY A BRIEF CASE"
+  },
+  {
+    "filename": "f10.wav",
+    "emotion": "fearful",
+    "transcription": "WHO ROBIN WHERE ARE YEUR LU LILY"
+  },
+  {
+    "filename": "su04.wav",
+    "emotion": "surprised",
+    "transcription": "CARPERCLIN A CHAMPOOT OUR ORIENTAL ROCK"
+  },
+  {
+    "filename": "h11.wav",
+    "emotion": "happy",
+    "transcription": "BY THAT ONE FEELS THAT MAGNETIC FORCES ARE AS GENERAL AS ELECTRICAL FORCES"
+  },
+  {
+    "filename": "n20.wav",
+    "emotion": "neutral",
+    "transcription": "DESTROY EVERY FILE RELATED TO MY ODIS"
+  },
+  {
+    "filename": "sa10.wav",
+    "emotion": "sad",
+    "transcription": "JEF TOUGHT YOU ARGUED IN FAVOR OF A CENAFRIGE POCHIS"
+  },
+  {
+    "filename": "n24.wav",
+    "emotion": "neutral",
+    "transcription": "TANADOS OFTEN DESTROY ACRES OF FARM LAND"
+  },
+  {
+    "filename": "n02.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CARRY AND OILARAGLIG BA"
+  },
+  {
+    "filename": "sa08.wav",
+    "emotion": "sad",
+    "transcription": "JOHN CLEAN SHELLFISH FOR LIVING"
+  },
+  {
+    "filename": "h14.wav",
+    "emotion": "happy",
+    "transcription": "OBVIOUSLY THE BRIDLE PEER HAD MANY ADJUSTMENTS TO MAKE IN THEIR NEW SITUATION"
+  },
+  {
+    "filename": "a03.wav",
+    "emotion": "angry",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a11.wav",
+    "emotion": "angry",
+    "transcription": "A FEW YEARS LATER THE DUMB FELL IN"
+  },
+  {
+    "filename": "sa03.wav",
+    "emotion": "sad",
+    "transcription": "YOU TELL ME WHY"
+  },
+  {
+    "filename": "a10.wav",
+    "emotion": "angry",
+    "transcription": "KINDEGARDED CHILDREN DECORATE THEIR COSHUMES FOR ALL HOLIDAYS"
+  },
+  {
+    "filename": "h06.wav",
+    "emotion": "happy",
+    "transcription": "THAT NOISE PROBLEM GOES MORE ANNOYING EACH DAY"
+  },
+  {
+    "filename": "n11.wav",
+    "emotion": "neutral",
+    "transcription": "AS SUCH IT WAS BEYOND POLITICS AND HAD NO NEED OF JUSTIFICATION BY A MESSAGE"
+  },
+  {
+    "filename": "su01.wav",
+    "emotion": "surprised",
+    "transcription": "SHE HAD YOUR DARK SOUIT IN CREASY WASHWAR ALL YEAR"
+  },
+  {
+    "filename": "n18.wav",
+    "emotion": "neutral",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "a09.wav",
+    "emotion": "angry",
+    "transcription": "RIGT NO NOT BE THE BEST CLAIM FOR BUSINESS MARRIAGERS"
+  },
+  {
+    "filename": "a05.wav",
+    "emotion": "angry",
+    "transcription": "DESTROY EVERY FILE RELATE TO MY ODDIS"
+  },
+  {
+    "filename": "n14.wav",
+    "emotion": "neutral",
+    "transcription": "KEEP YOUR SEATS BOYS I JUST WANT TO POOT SOME FINISHING TOUCHIES ON THIS ONE THING"
+  },
+  {
+    "filename": "d01.wav",
+    "emotion": "disgust",
+    "transcription": "SHE ARD YOU DARK SOO IN GREASY WASHWOOR O YOU"
+  },
+  {
+    "filename": "a06.wav",
+    "emotion": "angry",
+    "transcription": "CORIENTISILA TARRED WITH BEECH BOWLS FOR OS"
+  },
+  {
+    "filename": "n08.wav",
+    "emotion": "neutral",
+    "transcription": "GREGG BIES FRESH MILK EACH WEEK DAY MORNING"
+  },
+  {
+    "filename": "h04.wav",
+    "emotion": "happy",
+    "transcription": "THOSE MUSICIANS HARMOLIZED MARVEROUSLY"
+  },
+  {
+    "filename": "n12.wav",
+    "emotion": "neutral",
+    "transcription": "HE ALWAYS SEEMED TO HAVE MONEY IN HIS POCKET"
+  },
+  {
+    "filename": "d14.wav",
+    "emotion": "disgust",
+    "transcription": "HOMARCH AND HEMRY PROFITS COULD A MAJORITY OVER THE LOSSES OF A FEW"
+  },
+  {
+    "filename": "f11.wav",
+    "emotion": "fearful",
+    "transcription": "THEIR PROPS WERE TWO STEP LADERS A CHEER AND A PALM FARN"
+  },
+  {
+    "filename": "su03.wav",
+    "emotion": "surprised",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f03.wav",
+    "emotion": "fearful",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "f07.wav",
+    "emotion": "fearful",
+    "transcription": "THAT DIAGRAM EXCENDS ONLY AFTER MUCH STUDY"
+  },
+  {
+    "filename": "d05.wav",
+    "emotion": "disgust",
+    "transcription": "THE SMALL BOY BREGT THE WARM ON THE HOOP"
+  },
+  {
+    "filename": "a12.wav",
+    "emotion": "angry",
+    "transcription": "BUT IN THIS ONE SET SHOULD BE WELCOMED ORDERERS"
+  },
+  {
+    "filename": "d11.wav",
+    "emotion": "disgust",
+    "transcription": "IF THE FARMERS RENTED THE RENT MUST BE PAID"
+  },
+  {
+    "filename": "n09.wav",
+    "emotion": "neutral",
+    "transcription": "AGRICULTURAL PRODUCTS ARE UNEVILY DISTRIBUTED"
+  },
+  {
+    "filename": "n17.wav",
+    "emotion": "neutral",
+    "transcription": "DON'T ASK ME TO CURRY AN OILARAGU LIKE VA"
+  },
+  {
+    "filename": "f01.wav",
+    "emotion": "fearful",
+    "transcription": "SHE HAD YOUR DARK SOO AN GREASY WASHWOR OH YOU"
+  },
+  {
+    "filename": "f08.wav",
+    "emotion": "fearful",
+    "transcription": "SPECIAL TASKFORCES RESCUE HOSTAGES FROM KYNUPLES"
+  },
+  {
+    "filename": "f02.wav",
+    "emotion": "fearful",
+    "transcription": "DON'T ASK ME TO CARRY AN OILY ROCK LIKE VAT"
+  },
+  {
+    "filename": "su08.wav",
+    "emotion": "surprised",
+    "transcription": "THE CLUMSY CUSTOMER SPILLED SOME EXPENSIV PERFUME"
+  },
+  {
+    "filename": "d13.wav",
+    "emotion": "disgust",
+    "transcription": "PRETTY SOON A WOMAN CAME ALONG CARRYING A HOLY UMBRELLA AS A WALKING STICK"
+  },
+  {
+    "filename": "sa09.wav",
+    "emotion": "sad",
+    "transcription": "HE STORE A DIME FROM A BEGGAR"
+  },
+  {
+    "filename": "f12.wav",
+    "emotion": "fearful",
+    "transcription": "THIS IS A PROBLEM THAT GOES CONSIDERAT BEYOND QUESTION OF SALARY AND TONOEUR"
+  },
+  {
+    "filename": "d12.wav",
+    "emotion": "disgust",
+    "transcription": "LABORATORY ASTROPHYSICS"
+  },
+  {
+    "filename": "su02.wav",
+    "emotion": "surprised",
+    "transcription": "DON'T ASK ME TO CORRY ANOILY ROGGLING AT"
+  },
+  {
+    "filename": "h05.wav",
+    "emotion": "happy",
+    "transcription": "THE EASTERN COLKS IS A PLACE OF PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "su07.wav",
+    "emotion": "surprised",
+    "transcription": "I DRAGGED THE SUBWAY BUT I HAVEN'T ENOUGH CHANGE"
+  },
+  {
+    "filename": "d02.wav",
+    "emotion": "disgust",
+    "transcription": "DON'T ASK ME TO CAEONOILI ROGLIVAG"
+  },
+  {
+    "filename": "h01.wav",
+    "emotion": "happy",
+    "transcription": "SHE HAD YOUR DARK SOUIT IN GREASY WASHWALL OH YOU"
+  },
+  {
+    "filename": "sa01.wav",
+    "emotion": "sad",
+    "transcription": "SHE HAD YOUR DARK SOO IN GREASY WASHWAR ALL YEAR"
+  },
+  {
+    "filename": "d04.wav",
+    "emotion": "disgust",
+    "transcription": "PLEASE TAKE THERE'S DURTY TABLECLOTH TO THE CLEANEST WONE"
+  },
+  {
+    "filename": "f05.wav",
+    "emotion": "fearful",
+    "transcription": "TORNADOES OFTEN DESTROY ACRES OF FARMLAND"
+  },
+  {
+    "filename": "h15.wav",
+    "emotion": "happy",
+    "transcription": "BOTH THE CONDITIONS AND THE COMPLICITY ARE DOCUMENTED IN CONSIDERABLE DETAILS"
+  },
+  {
+    "filename": "n29.wav",
+    "emotion": "neutral",
+    "transcription": "THOSE MAGICIANS HARMONIZE MOVEROUSLY"
+  },
+  {
+    "filename": "sa13.wav",
+    "emotion": "sad",
+    "transcription": "BUT THES SHIPS ARE VERY SLAW NO AND WE DON'T GET SO MANY SEALERS ANY MORE"
+  },
+  {
+    "filename": "sa02.wav",
+    "emotion": "sad",
+    "transcription": "DON'T ASK ME THE CURRY AN WE WULD RAGREGRAR"
+  },
+  {
+    "filename": "n28.wav",
+    "emotion": "neutral",
+    "transcription": "THE DIAGNOSUS WAS DISCOURAGING O OR HE WAS NOT OVELLY WORRIED"
+  },
+  {
+    "filename": "n21.wav",
+    "emotion": "neutral",
+    "transcription": "PLEASE TAKE THIS DIRTY TABLE CLOTH TO THE CLEANISH FAMLY"
+  },
+  {
+    "filename": "su09.wav",
+    "emotion": "surprised",
+    "transcription": "PLEASE DIG MY POTATOES UP BEFORE THE FROST"
+  },
+  {
+    "filename": "f06.wav",
+    "emotion": "fearful",
+    "transcription": "STRAW HARTS ARE OF FASH IN THIS YEAR"
+  },
+  {
+    "filename": "su05.wav",
+    "emotion": "surprised",
+    "transcription": "HIS SHOULDERS FELL AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "n23.wav",
+    "emotion": "neutral",
+    "transcription": "COLONUMBULANCE ROR MEDICAL ASSISTANCE"
+  },
+  {
+    "filename": "d10.wav",
+    "emotion": "disgust",
+    "transcription": "IF PEOPLE WERE MORE GENEROUS THERE WOULD BE NO NEED FOR WELFARE"
+  },
+  {
+    "filename": "su12.wav",
+    "emotion": "surprised",
+    "transcription": "PROPERLY USED THE PRESENT BOOK AS AN EXCELLENT INSTRUMENT OF ENLIGHTENMENT"
+  },
+  {
+    "filename": "n16.wav",
+    "emotion": "neutral",
+    "transcription": "SHE HAD YOUR DARK SOUT IN GREASY WASH WAR ALL YEAR"
+  },
+  {
+    "filename": "h07.wav",
+    "emotion": "happy",
+    "transcription": "PORGETT DVILMAN WAS BROSEEDIN TOO SLOWLY"
+  },
+  {
+    "filename": "d09.wav",
+    "emotion": "disgust",
+    "transcription": "DEZEMBER AND JANU NICE MONTHS TO SPEND IN MY ARMY"
+  },
+  {
+    "filename": "h03.wav",
+    "emotion": "happy",
+    "transcription": "WILL YOU TELL ME WHY"
+  },
+  {
+    "filename": "su11.wav",
+    "emotion": "surprised",
+    "transcription": "SALVATION RECONSIDERED"
+  },
+  {
+    "filename": "su06.wav",
+    "emotion": "surprised",
+    "transcription": "THE VIEWPOINT OLVERLOPED THE OCEAN"
+  },
+  {
+    "filename": "a08.wav",
+    "emotion": "angry",
+    "transcription": "WITHDRAW ALL FORNY ACTODITIONS AT ONCE"
+  },
+  {
+    "filename": "su14.wav",
+    "emotion": "surprised",
+    "transcription": "BUT THIS DOESN'T DISTRACT FROM ITS MERIT AS AN INTEREST IN IF NOT GREAT FILM"
+  },
+  {
+    "filename": "a13.wav",
+    "emotion": "angry",
+    "transcription": "LAW OF PEOPLE WILL ROAM THE STREETS AND COSTUMES AND MASKS AND HAVEN' A BALL"
+  },
+  {
+    "filename": "d08.wav",
+    "emotion": "disgust",
+    "transcription": "BARBED ON PAPER AND LEAVES IN A BIG BOMFIRE"
+  },
+  {
+    "filename": "su10.wav",
+    "emotion": "surprised",
+    "transcription": "GRANDMOTHER OAK GREW HER UPRINGING IN PETTICOATS"
+  },
+  {
+    "filename": "d07.wav",
+    "emotion": "disgust",
+    "transcription": "HOW GOOD IS YOUR ENDURANCE"
+  },
+  {
+    "filename": "sa15.wav",
+    "emotion": "sad",
+    "transcription": "NO MANUFOGURESTIK IN THE INITIATIVE AND POINTED OUT THE CORPSE INVOLVED"
+  },
+  {
+    "filename": "h08.wav",
+    "emotion": "happy",
+    "transcription": "THE WOICIS WAS A MIRAGE"
+  },
+  {
+    "filename": "a14.wav",
+    "emotion": "angry",
+    "transcription": "AND MANY OF HIS POEM'S DEATH COMES BY TREEN ARE STRONG LAY OF BOOK THA VISUAL IMAGE"
+  },
+  {
+    "filename": "n10.wav",
+    "emotion": "neutral",
+    "transcription": "THE NEAREST SINAGOGUE MAY NOT BE WITHIN WALKING DISTANCE"
+  },
+  {
+    "filename": "a04.wav",
+    "emotion": "angry",
+    "transcription": "WHO AUTHORIZED THEN LET ME EXPENSE A CO"
+  },
+  {
+    "filename": "f13.wav",
+    "emotion": "fearful",
+    "transcription": "THE PULSHING GLOW OF A CIGARETTE"
+  },
+  {
+    "filename": "sa11.wav",
+    "emotion": "sad",
+    "transcription": "HOWEVER THE LITTER REMAINED AUGMENTED BY SEVERAL DOZEN LUNCH ROOM SOPPERS"
+  },
+  {
+    "filename": "n27.wav",
+    "emotion": "neutral",
+    "transcription": "THE POSPECT OF COTDINBARK SPENDING AS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "a15.wav",
+    "emotion": "angry",
+    "transcription": "THEN HE WOULD REALIZE THERE WERE REALLY THINGS THAT ONLY HE HIMSELF COULD THINK"
+  },
+  {
+    "filename": "sa07.wav",
+    "emotion": "sad",
+    "transcription": "THEY ENJOY IT WHEN I A DETION"
+  },
+  {
+    "filename": "f15.wav",
+    "emotion": "fearful",
+    "transcription": "WE WILL ACHIEVE A MORE VIVID SENSE OF WHAT IS BY REALIZING WHAT IS NOT"
+  },
+  {
+    "filename": "h02.wav",
+    "emotion": "happy",
+    "transcription": "DON'T ASK ME TO CARREON OILE ROGLICNA"
+  },
+  {
+    "filename": "n13.wav",
+    "emotion": "neutral",
+    "transcription": "NO RETONNADRESS WHATSOEVER"
+  },
+  {
+    "filename": "a07.wav",
+    "emotion": "angry",
+    "transcription": "HE WILL LL ALLOW A RARE LIE"
+  },
+  {
+    "filename": "sa04.wav",
+    "emotion": "sad",
+    "transcription": "THE SPORT THE PROSPECT OF COTTON BAK PENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR"
+  },
+  {
+    "filename": "sa12.wav",
+    "emotion": "sad",
+    "transcription": "AMERICAN NEWSPAPER VIEWS LATE DECAL HIS PLACE MIOLISTIC"
+  },
+  {
+    "filename": "sa06.wav",
+    "emotion": "sad",
+    "transcription": "BEFORE THOSE THE EXAMP REVIEW EVERY FORMULA"
+  },
+  {
+    "filename": "n07.wav",
+    "emotion": "neutral",
+    "transcription": "I'LLO LEE WE ARE HERE BUT RATIONALIZE ALE ERRORS"
+  },
+  {
+    "filename": "sa05.wav",
+    "emotion": "sad",
+    "transcription": "DIAGNOSIS WAS DISCOURAGING OH HE WAS NOT OVELLY WORRIED"
+  },
+  {
+    "filename": "f14.wav",
+    "emotion": "fearful",
+    "transcription": "ONE LOOKD DOWN ON A SEA OF LEAVES A BRICK IN WAVE AFLOWER"
+  },
+  {
+    "filename": "n06.wav",
+    "emotion": "neutral",
+    "transcription": "CADOSTROPIC ECONOMIC COTBOX NEGLECT THE PUR"
+  },
+  {
+    "filename": "n30.wav",
+    "emotion": "neutral",
+    "transcription": "THE EASTERN COURSE IS A PLACE OF PURE PLEASURE AND EXCITEMENT"
+  },
+  {
+    "filename": "n26.wav",
+    "emotion": "neutral",
+    "transcription": "HIS SHOULDERS FELL AS IF IT WERE BROKEN"
+  },
+  {
+    "filename": "su15.wav",
+    "emotion": "surprised",
+    "transcription": "HE FELT THE PROPOSED GRANT OF AN UNSPECIFIED SUM OF THE EXPERIMENTAL HOSPITALS"
+  },
+  {
+    "filename": "d15.wav",
+    "emotion": "disgust",
+    "transcription": "DOES SOCIET REALLY EXIST AS AN ANTHY OVER AND ABOVE THE AGLOMORATION OF MAN"
+  },
+  {
+    "filename": "d06.wav",
+    "emotion": "disgust",
+    "transcription": "BASKET BOWL CAN BE AN ENTERTAININ SPORT"
+  },
+  {
+    "filename": "n22.wav",
+    "emotion": "neutral",
+    "transcription": "THE SMALL BOY PUT THE WARM ON THE HOOK"
+  },
+  {
+    "filename": "sa14.wav",
+    "emotion": "sad",
+    "transcription": "IT IS ONE OF THE ROYAL PUBLIC VENTURESYEU ON WHICH NEARLY EVERYBODY IS AGREED"
+  },
+  {
+    "filename": "a01.wav",
+    "emotion": "angry",
+    "transcription": "SHE HAD YOUR DARK SOUIT AND GREASY WASH WAR ALL YEAR"
+  }
+]
